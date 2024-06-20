@@ -1,3 +1,6 @@
+Выполнил: Синицин А.Р.
+Группа: ИСП-311
+
 Задание 1:
 SELECT PC.model, PC.speed, PC.hd
 FROM PC
